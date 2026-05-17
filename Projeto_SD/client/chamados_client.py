@@ -84,14 +84,14 @@ def alterar_status_chamado():
 
     print("\nStatus disponíveis:")
     print("1 - Aberto")
-    print("2 - Em atendimento")
+    print("2 - Em Atendimento")
     print("3 - Concluído")
 
     opcao = input("Escolha o novo status: ")
 
-    status_map = {
+    status_map = {  
         "1": "Aberto",
-        "2": "Em atendimento",
+        "2": "Em Atendimento",
         "3": "Concluído"
     }
 

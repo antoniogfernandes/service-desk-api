@@ -2,17 +2,14 @@ Service Desk API
 
 API REST desenvolvida em Python com Flask para gerenciamento de chamados técnicos.
 
-Tecnologias Utilizadas
+Tecnologias Utilizadas:
 
 Python
-
 Flask
-
 MySQL
-
 Requests
 
-Estrutura do Projeto
+Estrutura do Projeto:
 
 service-desk-api/
 ├── app.py
@@ -31,7 +28,7 @@ python -m venv venv
 
 2. Ativar ambiente virtual
 
-venv\\Scripts\\activate
+venv\Scripts\activate
 
 3. Instalar dependências
 

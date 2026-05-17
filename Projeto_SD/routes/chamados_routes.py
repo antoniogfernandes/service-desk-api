@@ -16,9 +16,8 @@ PRIORIDADES_VALIDAS = [
 
 STATUS_VALIDOS = [
     "Aberto",
-    "Em atendimento",
-    "Resolvido",
-    "Fechado"
+    "Em Atendimento",
+    "Concluído"
     ]
 
 
